@@ -1,0 +1,11 @@
+"<!--|NO_SIDEBAR:Zombie Ball-->"
+<center><div class="miniclip-game-embed" data-game-name="zomball" data-theme="5" data-width="600" data-height="800" data-language="en"><a href="https://www.miniclip.com/games/zomball/">Play Zomball</a></div>
+<p style="text-align:center;">
+    <a href="https://www.miniclip.com/games/zomball/" target="_blank">Play Zomball</a> -
+    <a href="https://www.miniclip.com/games/genre-3/" target="_blank">More Sports games</a> -
+    <a href="https://www.miniclip.com/terms" target="_blank">Terms and Conditions</a> -
+    <a href="https://www.miniclip.com/privacy" target="_blank">Privacy Policy</a>
+</p>
+
+<!-- Insert this code before your </body> tag -->
+<script src="//static.miniclipcdn.com/js/game-embed.js"></script></center>
